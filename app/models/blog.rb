@@ -1,3 +1,4 @@
 class Blog < ApplicationRecord
-  has_many_attached :images
+  has_many :blog_ps
+
 end
