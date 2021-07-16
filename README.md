@@ -4,7 +4,7 @@ Resume, Contact, Portfolio and Blog Website.<br><br>
 
 **Install Instructions**
 <br><br>
-Make a folder on your system, fork and clone this repo and https://github.com/kak79/kims-frontend-webpage into two sub folders or directories so they are in the same folder or directory.<br>
+Make a folder on your system, fork and clone this repo and https://github.com/kak79/kims-webpage into two sub folders or directories so they are in the same folder or directory.<br>
 
 Navigate to the 'frontend' folder in the terminal and run: <br>
 
